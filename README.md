@@ -1,15 +1,22 @@
+# Abut this fork
+
+This fork is a modified version of the original CoOp codebase. The code is modified to evaluate a multi prompt situation.
+
+- I got some problems with the Dassl.pytorch installation, so I used `conda create -n dassl -c conda-forge jupyterlab ipython matplotlib scikit-learn tqdm pytorch-gpu torchvision tensorboard` to create the dassl environment and installed the packages there.
+- I added `self.model.eval()` tp Dassl.pytorch/dassl/engine/trainer.py (r. 448) to perform some actions based on the training condition.
+
 # Prompt Learning for Vision-Language Models
 
-This repo contains the codebase of a series of research projects focused on adapting vision-language models like [CLIP](https://arxiv.org/abs/2103.00020) to downstream datasets via *prompt learning*:
+This repo contains the codebase of a series of research projects focused on adapting vision-language models like [CLIP](https://arxiv.org/abs/2103.00020) to downstream datasets via _prompt learning_:
 
-* [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557), in CVPR, 2022.
-* [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134), IJCV, 2022.
+- [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557), in CVPR, 2022.
+- [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134), IJCV, 2022.
 
 ## Updates
 
 - **07.10.2022**: Just added to both [CoOp](https://arxiv.org/abs/2109.01134) and [CoCoOp](https://arxiv.org/abs/2203.05557) (in their appendices) the results on the newly proposed DOSCO (DOmain Shift in COntext) benchmark, which focuses on contextual domain shift and covers a diverse set of classification problems. (The paper about DOSCO is [here](https://arxiv.org/abs/2209.07521) and the code for running CoOp/CoCoOp on DOSCO is [here](https://github.com/KaiyangZhou/on-device-dg).)
 
-- **17.09.2022**: [Call for Papers](https://kaiyangzhou.github.io/assets/cfp_ijcv_lvms.html): IJCV Special Issue on *The Promises and Dangers of Large Vision Models*.
+- **17.09.2022**: [Call for Papers](https://kaiyangzhou.github.io/assets/cfp_ijcv_lvms.html): IJCV Special Issue on _The Promises and Dangers of Large Vision Models_.
 
 - **16.07.2022**: CoOp has been accepted to IJCV for publication!
 
@@ -28,6 +35,7 @@ This repo contains the codebase of a series of research projects focused on adap
 - **18.09.2021**: We have fixed an error in Dassl which could cause a training data loader to have zero length (so no training will be performed) when the dataset size is smaller than the batch size (due to `drop_last=True`). Please pull the latest commit for Dassl (>= `8eecc3c`). This error led to lower results for CoOp in EuroSAT's 1- and 2-shot settings (others are all correct). We will update the paper on arxiv to fix this error.
 
 ## How to Install
+
 This code is built on top of the awesome toolbox [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch) so you need to install the `dassl` environment first. Simply follow the instructions described [here](https://github.com/KaiyangZhou/Dassl.pytorch#installation) to install `dassl` as well as PyTorch. After that, run `pip install -r requirements.txt` under `CoOp/` to install a few more packages required by [CLIP](https://github.com/openai/CLIP) (this should be done when `dassl` is activated). Then, you are ready to go.
 
 Follow [DATASETS.md](DATASETS.md) to install the datasets.
@@ -36,8 +44,8 @@ Follow [DATASETS.md](DATASETS.md) to install the datasets.
 
 Click a paper below to see the detailed instructions on how to run the code to reproduce the results.
 
-* [Learning to Prompt for Vision-Language Models](COOP.md)
-* [Conditional Prompt Learning for Vision-Language Models](COCOOP.md)
+- [Learning to Prompt for Vision-Language Models](COOP.md)
+- [Conditional Prompt Learning for Vision-Language Models](COCOOP.md)
 
 ## Models and Results
 
@@ -45,6 +53,7 @@ Click a paper below to see the detailed instructions on how to run the code to r
 - The raw numerical results can be found at this [google drive link](https://docs.google.com/spreadsheets/d/12_kaFdD0nct9aUIrDoreY0qDunQ9q9tv/edit?usp=sharing&ouid=100312610418109826457&rtpof=true&sd=true).
 
 ## Citation
+
 If you use this code in your research, please kindly cite the following papers
 
 ```bash

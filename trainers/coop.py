@@ -1,4 +1,5 @@
 import os.path as osp
+import random
 
 import torch
 import torch.nn as nn
@@ -63,6 +64,7 @@ class PromptLearner(nn.Module):
         n_cls = len(classnames)
         n_ctx = cfg.TRAINER.COOP.N_CTX
         ctx_init = cfg.TRAINER.COOP.CTX_INIT
+        num_prompts = cfg.TRAINER.COOP.PROMPTS
         dtype = clip_model.dtype
         ctx_dim = clip_model.ln_final.weight.shape[0]
         clip_imsize = clip_model.visual.input_resolution
@@ -86,7 +88,7 @@ class PromptLearner(nn.Module):
                 ctx_vectors = torch.empty(n_cls, n_ctx, ctx_dim, dtype=dtype)
             else:
                 print("Initializing a generic context")
-                ctx_vectors = torch.empty(n_ctx, ctx_dim, dtype=dtype)
+                ctx_vectors = torch.empty(num_prompts, n_ctx, ctx_dim, dtype=dtype)
             nn.init.normal_(ctx_vectors, std=0.02)
             prompt_prefix = " ".join(["X"] * n_ctx)
 
@@ -115,8 +117,8 @@ class PromptLearner(nn.Module):
         self.name_lens = name_lens
         self.class_token_position = cfg.TRAINER.COOP.CLASS_TOKEN_POSITION
 
-    def forward(self):
-        ctx = self.ctx
+    def forward(self, ctxIndex):
+        ctx = self.ctx[ctxIndex]
         if ctx.dim() == 2:
             ctx = ctx.unsqueeze(0).expand(self.n_cls, -1, -1)
 
@@ -191,20 +193,30 @@ class CustomCLIP(nn.Module):
         self.text_encoder = TextEncoder(clip_model)
         self.logit_scale = clip_model.logit_scale
         self.dtype = clip_model.dtype
+        self.num_prompts = cfg.TRAINER.COOP.PROMPTS
 
     def forward(self, image):
         image_features = self.image_encoder(image.type(self.dtype))
-
-        prompts = self.prompt_learner()
-        tokenized_prompts = self.tokenized_prompts
-        text_features = self.text_encoder(prompts, tokenized_prompts)
-
         image_features = image_features / image_features.norm(dim=-1, keepdim=True)
-        text_features = text_features / text_features.norm(dim=-1, keepdim=True)
-
         logit_scale = self.logit_scale.exp()
-        logits = logit_scale * image_features @ text_features.t()
 
+        tokenized_prompts = self.tokenized_prompts
+        features = []
+
+        prompts_indexes = range(self.num_prompts)
+
+        if self.training is True:
+            prompts_indexes = [random.choice(prompts_indexes)]
+
+        for i in prompts_indexes:
+            prompts = self.prompt_learner(i)
+            text_features = self.text_encoder(prompts, tokenized_prompts)
+            text_features = text_features / text_features.norm(dim=-1, keepdim=True)
+            features.append(text_features)
+
+        features = torch.stack(features, dim=1).cuda().mean(dim=1)
+
+        logits = logit_scale * image_features @ features.t()
         return logits
 
 
