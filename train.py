@@ -94,6 +94,7 @@ def extend_cfg(cfg):
     cfg.TRAINER.COOP.PREC = "fp16"  # fp16, fp32, amp
     cfg.TRAINER.COOP.CLASS_TOKEN_POSITION = "end"  # 'middle' or 'end' or 'front'
     cfg.TRAINER.COOP.PROMPTS = 1  # number of prompts to be averaged
+    cfg.TRAINER.COOP.TEST_INDEX = -1  # index for test
 
     cfg.TRAINER.COCOOP = CN()
     cfg.TRAINER.COCOOP.N_CTX = 16  # number of context vectors

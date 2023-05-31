@@ -194,6 +194,7 @@ class CustomCLIP(nn.Module):
         self.logit_scale = clip_model.logit_scale
         self.dtype = clip_model.dtype
         self.num_prompts = cfg.TRAINER.COOP.PROMPTS
+        self.test_index = cfg.TRAINER.COOP.TEST_INDEX
 
     def forward(self, image):
         image_features = self.image_encoder(image.type(self.dtype))
@@ -205,8 +206,10 @@ class CustomCLIP(nn.Module):
 
         prompts_indexes = range(self.num_prompts)
 
-        if self.training is True:
-            prompts_indexes = [random.choice(prompts_indexes)]
+        #if self.training is True:
+        #    prompts_indexes = random.sample(prompts_indexes, random.choice(range(len(prompts_indexes))) + 1)
+        if self.training is False and self.test_index != -1:
+            prompts_indexes = [self.test_index]
 
         for i in prompts_indexes:
             prompts = self.prompt_learner(i)

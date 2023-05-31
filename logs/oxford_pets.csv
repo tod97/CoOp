@@ -1,0 +1,567 @@
+16shots/1run/1prompts/seed1/index0 3669 3246 88.5 11.5 88.4
+16shots/1run/1prompts/seed2/index0 3669 3242 88.4 11.6 88.3
+16shots/1run/1prompts/seed3/index0 3669 3240 88.3 11.7 88.2
+16shots/1run/2prompts/seed1/index0 3669 3042 82.9 17.1 83.0
+16shots/1run/2prompts/seed1/index1 3669 3162 86.2 13.8 85.5
+16shots/1run/2prompts/seed2/index0 3669 3132 85.4 14.6 85.5
+16shots/1run/2prompts/seed2/index1 3669 2929 79.8 20.2 78.9
+16shots/1run/2prompts/seed3/index0 3669 2982 81.3 18.7 80.9
+16shots/1run/2prompts/seed3/index1 3669 3219 87.7 12.3 87.7
+16shots/1run/4prompts/seed1/index0 3669 2566 69.9 30.1 69.6
+16shots/1run/4prompts/seed1/index1 3669 2988 81.4 18.6 80.8
+16shots/1run/4prompts/seed1/index2 3669 3158 86.1 13.9 86.1
+16shots/1run/4prompts/seed1/index3 3669 3195 87.1 12.9 86.8
+16shots/1run/4prompts/seed2/index0 3669 2850 77.7 22.3 75.5
+16shots/1run/4prompts/seed2/index1 3669 2892 78.8 21.2 78.1
+16shots/1run/4prompts/seed2/index2 3669 2620 71.4 28.6 72.1
+16shots/1run/4prompts/seed2/index3 3669 3064 83.5 16.5 82.9
+16shots/1run/4prompts/seed3/index0 3669 2846 77.6 22.4 76.3
+16shots/1run/4prompts/seed3/index1 3669 3040 82.9 17.1 82.4
+16shots/1run/4prompts/seed3/index2 3669 2873 78.3 21.7 77.5
+16shots/1run/4prompts/seed3/index3 3669 2973 81.0 19.0 80.2
+16shots/1run/8prompts/seed1/index0 3669 2896 78.9 21.1 77.8
+16shots/1run/8prompts/seed1/index1 3669 2619 71.4 28.6 70.6
+16shots/1run/8prompts/seed1/index2 3669 2881 78.5 21.5 77.5
+16shots/1run/8prompts/seed1/index3 3669 3154 86.0 14.0 85.5
+16shots/1run/8prompts/seed1/index4 3669 3082 84.0 16.0 83.4
+16shots/1run/8prompts/seed1/index5 3669 2676 72.9 27.1 71.2
+16shots/1run/8prompts/seed1/index6 3669 2726 74.3 25.7 73.7
+16shots/1run/8prompts/seed1/index7 3669 3028 82.5 17.5 81.6
+16shots/1run/8prompts/seed2/index0 3669 2726 74.3 25.7 73.1
+16shots/1run/8prompts/seed2/index1 3669 2579 70.3 29.7 70.0
+16shots/1run/8prompts/seed2/index2 3669 2850 77.7 22.3 77.2
+16shots/1run/8prompts/seed2/index3 3669 2843 77.5 22.5 76.6
+16shots/1run/8prompts/seed2/index4 3669 2945 80.3 19.7 78.6
+16shots/1run/8prompts/seed2/index5 3669 2860 78.0 22.0 75.3
+16shots/1run/8prompts/seed2/index6 3669 2899 79.0 21.0 78.6
+16shots/1run/8prompts/seed2/index7 3669 3106 84.7 15.3 84.3
+16shots/1run/8prompts/seed3/index0 3669 2896 78.9 21.1 77.8
+16shots/1run/8prompts/seed3/index1 3669 3013 82.1 17.9 81.5
+16shots/1run/8prompts/seed3/index2 3669 2750 75.0 25.0 72.3
+16shots/1run/8prompts/seed3/index3 3669 2426 66.1 33.9 64.7
+16shots/1run/8prompts/seed3/index4 3669 3021 82.3 17.7 81.8
+16shots/1run/8prompts/seed3/index5 3669 3046 83.0 17.0 82.5
+16shots/1run/8prompts/seed3/index6 3669 3018 82.3 17.7 81.5
+16shots/1run/8prompts/seed3/index7 3669 3033 82.7 17.3 82.2
+16shots/1run/16prompts/seed1/index0 3669 2558 69.7 30.3 67.7
+16shots/1run/16prompts/seed1/index1 3669 3044 83.0 17.0 82.2
+16shots/1run/16prompts/seed1/index2 3669 2727 74.3 25.7 72.5
+16shots/1run/16prompts/seed1/index3 3669 2750 75.0 25.0 73.5
+16shots/1run/16prompts/seed1/index4 3669 3160 86.1 13.9 86.2
+16shots/1run/16prompts/seed1/index5 3669 2782 75.8 24.2 74.3
+16shots/1run/16prompts/seed1/index6 3669 3123 85.1 14.9 84.5
+16shots/1run/16prompts/seed1/index7 3669 2952 80.5 19.5 79.7
+16shots/1run/16prompts/seed1/index8 3669 3109 84.7 15.3 84.6
+16shots/1run/16prompts/seed1/index9 3669 3178 86.6 13.4 85.8
+16shots/1run/16prompts/seed1/index10 3669 3101 84.5 15.5 84.0
+16shots/1run/16prompts/seed1/index11 3669 2691 73.3 26.7 72.4
+16shots/1run/16prompts/seed1/index12 3669 2098 57.2 42.8 54.4
+16shots/1run/16prompts/seed1/index13 3669 3160 86.1 13.9 85.6
+16shots/1run/16prompts/seed1/index14 3669 2295 62.6 37.4 59.1
+16shots/1run/16prompts/seed1/index15 3669 3153 85.9 14.1 85.6
+16shots/1run/16prompts/seed2/index0 3669 2709 73.8 26.2 73.1
+16shots/1run/16prompts/seed2/index1 3669 2447 66.7 33.3 64.0
+16shots/1run/16prompts/seed2/index2 3669 3015 82.2 17.8 82.2
+16shots/1run/16prompts/seed2/index3 3669 3090 84.2 15.8 84.0
+16shots/1run/16prompts/seed2/index4 3669 3044 83.0 17.0 81.5
+16shots/1run/16prompts/seed2/index5 3669 2227 60.7 39.3 55.7
+16shots/1run/16prompts/seed2/index6 3669 2515 68.5 31.5 66.2
+16shots/1run/16prompts/seed2/index7 3669 3043 82.9 17.1 82.9
+16shots/1run/16prompts/seed2/index8 3669 3101 84.5 15.5 84.5
+16shots/1run/16prompts/seed2/index9 3669 2944 80.2 19.8 79.0
+16shots/1run/16prompts/seed2/index10 3669 2843 77.5 22.5 75.5
+16shots/1run/16prompts/seed2/index11 3669 2243 61.1 38.9 57.4
+16shots/1run/16prompts/seed2/index12 3669 3126 85.2 14.8 85.0
+16shots/1run/16prompts/seed2/index13 3669 2947 80.3 19.7 79.9
+16shots/1run/16prompts/seed2/index14 3669 2933 79.9 20.1 79.5
+16shots/1run/16prompts/seed2/index15 3669 2515 68.5 31.5 65.6
+16shots/1run/16prompts/seed3/index0 3669 3094 84.3 15.7 84.3
+16shots/1run/16prompts/seed3/index1 3669 3062 83.5 16.5 83.1
+16shots/1run/16prompts/seed3/index2 3669 2827 77.1 22.9 74.1
+16shots/1run/16prompts/seed3/index3 3669 2695 73.5 26.5 71.5
+16shots/1run/16prompts/seed3/index4 3669 2630 71.7 28.3 69.1
+16shots/1run/16prompts/seed3/index5 3669 2860 78.0 22.0 77.6
+16shots/1run/16prompts/seed3/index6 3669 2688 73.3 26.7 71.1
+16shots/1run/16prompts/seed3/index7 3669 3050 83.1 16.9 82.6
+16shots/1run/16prompts/seed3/index8 3669 2883 78.6 21.4 78.2
+16shots/1run/16prompts/seed3/index9 3669 2763 75.3 24.7 74.3
+16shots/1run/16prompts/seed3/index10 3669 2661 72.5 27.5 70.7
+16shots/1run/16prompts/seed3/index11 3669 3117 85.0 15.0 84.8
+16shots/1run/16prompts/seed3/index12 3669 3109 84.7 15.3 83.7
+16shots/1run/16prompts/seed3/index13 3669 3180 86.7 13.3 86.2
+16shots/1run/16prompts/seed3/index14 3669 2716 74.0 26.0 71.6
+16shots/1run/16prompts/seed3/index15 3669 3075 83.8 16.2 83.5
+16shots/1run/32prompts/seed1/index0     
+16shots/1run/32prompts/seed1/index1     
+16shots/1run/32prompts/seed1/index2     
+16shots/1run/32prompts/seed1/index3     
+16shots/1run/32prompts/seed1/index4     
+16shots/1run/32prompts/seed1/index5     
+16shots/1run/32prompts/seed1/index6     
+16shots/1run/32prompts/seed1/index7     
+16shots/1run/32prompts/seed1/index8     
+16shots/1run/32prompts/seed1/index9     
+16shots/1run/32prompts/seed1/index10     
+16shots/1run/32prompts/seed1/index11     
+16shots/1run/32prompts/seed1/index12     
+16shots/1run/32prompts/seed1/index13     
+16shots/1run/32prompts/seed1/index14     
+16shots/1run/32prompts/seed1/index15     
+16shots/1run/32prompts/seed1/index16     
+16shots/1run/32prompts/seed1/index17     
+16shots/1run/32prompts/seed1/index18     
+16shots/1run/32prompts/seed1/index19     
+16shots/1run/32prompts/seed1/index20     
+16shots/1run/32prompts/seed1/index21     
+16shots/1run/32prompts/seed1/index22     
+16shots/1run/32prompts/seed1/index23     
+16shots/1run/32prompts/seed1/index24     
+16shots/1run/32prompts/seed1/index25     
+16shots/1run/32prompts/seed1/index26     
+16shots/1run/32prompts/seed1/index27     
+16shots/1run/32prompts/seed1/index28     
+16shots/1run/32prompts/seed1/index29     
+16shots/1run/32prompts/seed1/index30     
+16shots/1run/32prompts/seed1/index31     
+16shots/1run/32prompts/seed2/index0     
+16shots/1run/32prompts/seed2/index1     
+16shots/1run/32prompts/seed2/index2     
+16shots/1run/32prompts/seed2/index3     
+16shots/1run/32prompts/seed2/index4     
+16shots/1run/32prompts/seed2/index5     
+16shots/1run/32prompts/seed2/index6     
+16shots/1run/32prompts/seed2/index7     
+16shots/1run/32prompts/seed2/index8     
+16shots/1run/32prompts/seed2/index9     
+16shots/1run/32prompts/seed2/index10     
+16shots/1run/32prompts/seed2/index11     
+16shots/1run/32prompts/seed2/index12     
+16shots/1run/32prompts/seed2/index13     
+16shots/1run/32prompts/seed2/index14     
+16shots/1run/32prompts/seed2/index15     
+16shots/1run/32prompts/seed2/index16     
+16shots/1run/32prompts/seed2/index17     
+16shots/1run/32prompts/seed2/index18     
+16shots/1run/32prompts/seed2/index19     
+16shots/1run/32prompts/seed2/index20     
+16shots/1run/32prompts/seed2/index21     
+16shots/1run/32prompts/seed2/index22     
+16shots/1run/32prompts/seed2/index23     
+16shots/1run/32prompts/seed2/index24     
+16shots/1run/32prompts/seed2/index25     
+16shots/1run/32prompts/seed2/index26     
+16shots/1run/32prompts/seed2/index27     
+16shots/1run/32prompts/seed2/index28     
+16shots/1run/32prompts/seed2/index29     
+16shots/1run/32prompts/seed2/index30     
+16shots/1run/32prompts/seed2/index31     
+16shots/1run/32prompts/seed3/index0     
+16shots/1run/32prompts/seed3/index1     
+16shots/1run/32prompts/seed3/index2     
+16shots/1run/32prompts/seed3/index3     
+16shots/1run/32prompts/seed3/index4     
+16shots/1run/32prompts/seed3/index5     
+16shots/1run/32prompts/seed3/index6     
+16shots/1run/32prompts/seed3/index7     
+16shots/1run/32prompts/seed3/index8     
+16shots/1run/32prompts/seed3/index9     
+16shots/1run/32prompts/seed3/index10     
+16shots/1run/32prompts/seed3/index11     
+16shots/1run/32prompts/seed3/index12     
+16shots/1run/32prompts/seed3/index13     
+16shots/1run/32prompts/seed3/index14     
+16shots/1run/32prompts/seed3/index15     
+16shots/1run/32prompts/seed3/index16     
+16shots/1run/32prompts/seed3/index17     
+16shots/1run/32prompts/seed3/index18     
+16shots/1run/32prompts/seed3/index19     
+16shots/1run/32prompts/seed3/index20     
+16shots/1run/32prompts/seed3/index21     
+16shots/1run/32prompts/seed3/index22     
+16shots/1run/32prompts/seed3/index23     
+16shots/1run/32prompts/seed3/index24     
+16shots/1run/32prompts/seed3/index25     
+16shots/1run/32prompts/seed3/index26     
+16shots/1run/32prompts/seed3/index27     
+16shots/1run/32prompts/seed3/index28     
+16shots/1run/32prompts/seed3/index29     
+16shots/1run/32prompts/seed3/index30     
+16shots/1run/32prompts/seed3/index31     
+16shots/2run/1prompts/seed1/index0 3669 3243 88.4 11.6 88.3
+16shots/2run/1prompts/seed2/index0 3669 3243 88.4 11.6 88.3
+16shots/2run/1prompts/seed3/index0 3669 3246 88.5 11.5 88.3
+16shots/2run/2prompts/seed1/index0 3669 3025 82.4 17.6 82.2
+16shots/2run/2prompts/seed1/index1 3669 3176 86.6 13.4 86.2
+16shots/2run/2prompts/seed2/index0 3669 3098 84.4 15.6 84.5
+16shots/2run/2prompts/seed2/index1 3669 3028 82.5 17.5 81.7
+16shots/2run/2prompts/seed3/index0 3669 2960 80.7 19.3 80.3
+16shots/2run/2prompts/seed3/index1 3669 3208 87.4 12.6 87.4
+16shots/2run/4prompts/seed1/index0 3669 2225 60.6 39.4 60.8
+16shots/2run/4prompts/seed1/index1 3669 2991 81.5 18.5 81.0
+16shots/2run/4prompts/seed1/index2 3669 3111 84.8 15.2 84.6
+16shots/2run/4prompts/seed1/index3 3669 3195 87.1 12.9 86.8
+16shots/2run/4prompts/seed2/index0 3669 2922 79.6 20.4 77.8
+16shots/2run/4prompts/seed2/index1 3669 2931 79.9 20.1 79.0
+16shots/2run/4prompts/seed2/index2 3669 2417 65.9 34.1 67.4
+16shots/2run/4prompts/seed2/index3 3669 3092 84.3 15.7 83.8
+16shots/2run/4prompts/seed3/index0 3669 3083 84.0 16.0 83.8
+16shots/2run/4prompts/seed3/index1 3669 3114 84.9 15.1 84.6
+16shots/2run/4prompts/seed3/index2 3669 2710 73.9 26.1 73.1
+16shots/2run/4prompts/seed3/index3 3669 2931 79.9 20.1 78.8
+16shots/2run/8prompts/seed1/index0 3669 2919 79.6 20.4 78.7
+16shots/2run/8prompts/seed1/index1 3669 2656 72.4 27.6 72.4
+16shots/2run/8prompts/seed1/index2 3669 2923 79.7 20.3 78.8
+16shots/2run/8prompts/seed1/index3 3669 3152 85.9 14.1 85.4
+16shots/2run/8prompts/seed1/index4 3669 3107 84.7 15.3 84.2
+16shots/2run/8prompts/seed1/index5 3669 2514 68.5 31.5 69.2
+16shots/2run/8prompts/seed1/index6 3669 2713 73.9 26.1 73.6
+16shots/2run/8prompts/seed1/index7 3669 3005 81.9 18.1 80.9
+16shots/2run/8prompts/seed2/index0 3669 2777 75.7 24.3 74.2
+16shots/2run/8prompts/seed2/index1 3669 2670 72.8 27.2 72.7
+16shots/2run/8prompts/seed2/index2 3669 2895 78.9 21.1 78.1
+16shots/2run/8prompts/seed2/index3 3669 2873 78.3 21.7 77.6
+16shots/2run/8prompts/seed2/index4 3669 2923 79.7 20.3 78.1
+16shots/2run/8prompts/seed2/index5 3669 2878 78.4 21.6 76.3
+16shots/2run/8prompts/seed2/index6 3669 2783 75.9 24.1 74.7
+16shots/2run/8prompts/seed2/index7 3669 3134 85.4 14.6 85.2
+16shots/2run/8prompts/seed3/index0 3669 2890 78.8 21.2 77.9
+16shots/2run/8prompts/seed3/index1 3669 3098 84.4 15.6 84.1
+16shots/2run/8prompts/seed3/index2 3669 2701 73.6 26.4 71.0
+16shots/2run/8prompts/seed3/index3 3669 2674 72.9 27.1 71.3
+16shots/2run/8prompts/seed3/index4 3669 2993 81.6 18.4 80.1
+16shots/2run/8prompts/seed3/index5 3669 2836 77.3 22.7 76.7
+16shots/2run/8prompts/seed3/index6 3669 2993 81.6 18.4 80.8
+16shots/2run/8prompts/seed3/index7 3669 2987 81.4 18.6 80.9
+16shots/2run/16prompts/seed1/index0 3669 2457 67.0 33.0 64.3
+16shots/2run/16prompts/seed1/index1 3669 3161 86.2 13.8 86.0
+16shots/2run/16prompts/seed1/index2 3669 2243 61.1 38.9 57.6
+16shots/2run/16prompts/seed1/index3 3669 2718 74.1 25.9 73.1
+16shots/2run/16prompts/seed1/index4 3669 3170 86.4 13.6 86.5
+16shots/2run/16prompts/seed1/index5 3669 2700 73.6 26.4 72.1
+16shots/2run/16prompts/seed1/index6 3669 3167 86.3 13.7 86.1
+16shots/2run/16prompts/seed1/index7 3669 3060 83.4 16.6 82.4
+16shots/2run/16prompts/seed1/index8 3669 3127 85.2 14.8 85.1
+16shots/2run/16prompts/seed1/index9 3669 3180 86.7 13.3 86.0
+16shots/2run/16prompts/seed1/index10 3669 3129 85.3 14.7 85.0
+16shots/2run/16prompts/seed1/index11 3669 2765 75.4 24.6 74.4
+16shots/2run/16prompts/seed1/index12 3669 2139 58.3 41.7 54.6
+16shots/2run/16prompts/seed1/index13 3669 3156 86.0 14.0 85.3
+16shots/2run/16prompts/seed1/index14 3669 2306 62.9 37.1 59.9
+16shots/2run/16prompts/seed1/index15 3669 3076 83.8 16.2 83.5
+16shots/2run/16prompts/seed2/index0 3669 2706 73.8 26.2 73.0
+16shots/2run/16prompts/seed2/index1 3669 2448 66.7 33.3 64.1
+16shots/2run/16prompts/seed2/index2 3669 3015 82.2 17.8 82.2
+16shots/2run/16prompts/seed2/index3 3669 3090 84.2 15.8 84.0
+16shots/2run/16prompts/seed2/index4 3669 3044 83.0 17.0 81.5
+16shots/2run/16prompts/seed2/index5 3669 2229 60.8 39.2 55.8
+16shots/2run/16prompts/seed2/index6 3669 2514 68.5 31.5 66.1
+16shots/2run/16prompts/seed2/index7 3669 3047 83.0 17.0 83.0
+16shots/2run/16prompts/seed2/index8 3669 3101 84.5 15.5 84.5
+16shots/2run/16prompts/seed2/index9 3669 2945 80.3 19.7 79.1
+16shots/2run/16prompts/seed2/index10 3669 2843 77.5 22.5 75.5
+16shots/2run/16prompts/seed2/index11 3669 2245 61.2 38.8 57.4
+16shots/2run/16prompts/seed2/index12 3669 3125 85.2 14.8 84.9
+16shots/2run/16prompts/seed2/index13 3669 2945 80.3 19.7 79.9
+16shots/2run/16prompts/seed2/index14 3669 2934 80.0 20.0 79.6
+16shots/2run/16prompts/seed2/index15 3669 2515 68.5 31.5 65.6
+16shots/2run/16prompts/seed3/index0 3669 3095 84.4 15.6 84.3
+16shots/2run/16prompts/seed3/index1 3669 3061 83.4 16.6 83.1
+16shots/2run/16prompts/seed3/index2 3669 2828 77.1 22.9 74.1
+16shots/2run/16prompts/seed3/index3 3669 2692 73.4 26.6 71.4
+16shots/2run/16prompts/seed3/index4 3669 2629 71.7 28.3 69.1
+16shots/2run/16prompts/seed3/index5 3669 2859 77.9 22.1 77.5
+16shots/2run/16prompts/seed3/index6 3669 2691 73.3 26.7 71.2
+16shots/2run/16prompts/seed3/index7 3669 3050 83.1 16.9 82.6
+16shots/2run/16prompts/seed3/index8 3669 2881 78.5 21.5 78.1
+16shots/2run/16prompts/seed3/index9 3669 2762 75.3 24.7 74.3
+16shots/2run/16prompts/seed3/index10 3669 2660 72.5 27.5 70.7
+16shots/2run/16prompts/seed3/index11 3669 3119 85.0 15.0 84.8
+16shots/2run/16prompts/seed3/index12 3669 3112 84.8 15.2 83.8
+16shots/2run/16prompts/seed3/index13 3669 3179 86.6 13.4 86.2
+16shots/2run/16prompts/seed3/index14 3669 2715 74.0 26.0 71.6
+16shots/2run/16prompts/seed3/index15 3669 3077 83.9 16.1 83.6
+16shots/2run/32prompts/seed1/index0     
+16shots/2run/32prompts/seed1/index1     
+16shots/2run/32prompts/seed1/index2     
+16shots/2run/32prompts/seed1/index3     
+16shots/2run/32prompts/seed1/index4     
+16shots/2run/32prompts/seed1/index5     
+16shots/2run/32prompts/seed1/index6     
+16shots/2run/32prompts/seed1/index7     
+16shots/2run/32prompts/seed1/index8     
+16shots/2run/32prompts/seed1/index9     
+16shots/2run/32prompts/seed1/index10     
+16shots/2run/32prompts/seed1/index11     
+16shots/2run/32prompts/seed1/index12     
+16shots/2run/32prompts/seed1/index13     
+16shots/2run/32prompts/seed1/index14     
+16shots/2run/32prompts/seed1/index15     
+16shots/2run/32prompts/seed1/index16     
+16shots/2run/32prompts/seed1/index17     
+16shots/2run/32prompts/seed1/index18     
+16shots/2run/32prompts/seed1/index19     
+16shots/2run/32prompts/seed1/index20     
+16shots/2run/32prompts/seed1/index21     
+16shots/2run/32prompts/seed1/index22     
+16shots/2run/32prompts/seed1/index23     
+16shots/2run/32prompts/seed1/index24     
+16shots/2run/32prompts/seed1/index25     
+16shots/2run/32prompts/seed1/index26     
+16shots/2run/32prompts/seed1/index27     
+16shots/2run/32prompts/seed1/index28     
+16shots/2run/32prompts/seed1/index29     
+16shots/2run/32prompts/seed1/index30     
+16shots/2run/32prompts/seed1/index31     
+16shots/2run/32prompts/seed2/index0     
+16shots/2run/32prompts/seed2/index1     
+16shots/2run/32prompts/seed2/index2     
+16shots/2run/32prompts/seed2/index3     
+16shots/2run/32prompts/seed2/index4     
+16shots/2run/32prompts/seed2/index5     
+16shots/2run/32prompts/seed2/index6     
+16shots/2run/32prompts/seed2/index7     
+16shots/2run/32prompts/seed2/index8     
+16shots/2run/32prompts/seed2/index9     
+16shots/2run/32prompts/seed2/index10     
+16shots/2run/32prompts/seed2/index11     
+16shots/2run/32prompts/seed2/index12     
+16shots/2run/32prompts/seed2/index13     
+16shots/2run/32prompts/seed2/index14     
+16shots/2run/32prompts/seed2/index15     
+16shots/2run/32prompts/seed2/index16     
+16shots/2run/32prompts/seed2/index17     
+16shots/2run/32prompts/seed2/index18     
+16shots/2run/32prompts/seed2/index19     
+16shots/2run/32prompts/seed2/index20     
+16shots/2run/32prompts/seed2/index21     
+16shots/2run/32prompts/seed2/index22     
+16shots/2run/32prompts/seed2/index23     
+16shots/2run/32prompts/seed2/index24     
+16shots/2run/32prompts/seed2/index25     
+16shots/2run/32prompts/seed2/index26     
+16shots/2run/32prompts/seed2/index27     
+16shots/2run/32prompts/seed2/index28     
+16shots/2run/32prompts/seed2/index29     
+16shots/2run/32prompts/seed2/index30     
+16shots/2run/32prompts/seed2/index31     
+16shots/2run/32prompts/seed3/index0     
+16shots/2run/32prompts/seed3/index1     
+16shots/2run/32prompts/seed3/index2     
+16shots/2run/32prompts/seed3/index3     
+16shots/2run/32prompts/seed3/index4     
+16shots/2run/32prompts/seed3/index5     
+16shots/2run/32prompts/seed3/index6     
+16shots/2run/32prompts/seed3/index7     
+16shots/2run/32prompts/seed3/index8     
+16shots/2run/32prompts/seed3/index9     
+16shots/2run/32prompts/seed3/index10     
+16shots/2run/32prompts/seed3/index11     
+16shots/2run/32prompts/seed3/index12     
+16shots/2run/32prompts/seed3/index13     
+16shots/2run/32prompts/seed3/index14     
+16shots/2run/32prompts/seed3/index15     
+16shots/2run/32prompts/seed3/index16     
+16shots/2run/32prompts/seed3/index17     
+16shots/2run/32prompts/seed3/index18     
+16shots/2run/32prompts/seed3/index19     
+16shots/2run/32prompts/seed3/index20     
+16shots/2run/32prompts/seed3/index21     
+16shots/2run/32prompts/seed3/index22     
+16shots/2run/32prompts/seed3/index23     
+16shots/2run/32prompts/seed3/index24     
+16shots/2run/32prompts/seed3/index25     
+16shots/2run/32prompts/seed3/index26     
+16shots/2run/32prompts/seed3/index27     
+16shots/2run/32prompts/seed3/index28     
+16shots/2run/32prompts/seed3/index29     
+16shots/2run/32prompts/seed3/index30     
+16shots/2run/32prompts/seed3/index31     
+16shots/3run/1prompts/seed1/index0 3669 3241 88.3 11.7 88.3
+16shots/3run/1prompts/seed2/index0 3669 3245 88.4 11.6 88.4
+16shots/3run/1prompts/seed3/index0 3669 3245 88.4 11.6 88.3
+16shots/3run/2prompts/seed1/index0 3669 3024 82.4 17.6 82.2
+16shots/3run/2prompts/seed1/index1 3669 3176 86.6 13.4 86.2
+16shots/3run/2prompts/seed2/index0 3669 3107 84.7 15.3 84.7
+16shots/3run/2prompts/seed2/index1 3669 3024 82.4 17.6 81.7
+16shots/3run/2prompts/seed3/index0 3669 3032 82.6 17.4 82.4
+16shots/3run/2prompts/seed3/index1 3669 3219 87.7 12.3 87.7
+16shots/3run/4prompts/seed1/index0 3669 2226 60.7 39.3 60.8
+16shots/3run/4prompts/seed1/index1 3669 2990 81.5 18.5 81.0
+16shots/3run/4prompts/seed1/index2 3669 3108 84.7 15.3 84.5
+16shots/3run/4prompts/seed1/index3 3669 3196 87.1 12.9 86.9
+16shots/3run/4prompts/seed2/index0 3669 2891 78.8 21.2 76.6
+16shots/3run/4prompts/seed2/index1 3669 2975 81.1 18.9 80.4
+16shots/3run/4prompts/seed2/index2 3669 2495 68.0 32.0 69.3
+16shots/3run/4prompts/seed2/index3 3669 3059 83.4 16.6 82.8
+16shots/3run/4prompts/seed3/index0 3669 2935 80.0 20.0 79.3
+16shots/3run/4prompts/seed3/index1 3669 3074 83.8 16.2 83.5
+16shots/3run/4prompts/seed3/index2 3669 2847 77.6 22.4 76.4
+16shots/3run/4prompts/seed3/index3 3669 2877 78.4 21.6 77.2
+16shots/3run/8prompts/seed1/index0 3669 2897 79.0 21.0 77.8
+16shots/3run/8prompts/seed1/index1 3669 2621 71.4 28.6 70.6
+16shots/3run/8prompts/seed1/index2 3669 2880 78.5 21.5 77.4
+16shots/3run/8prompts/seed1/index3 3669 3152 85.9 14.1 85.4
+16shots/3run/8prompts/seed1/index4 3669 3082 84.0 16.0 83.4
+16shots/3run/8prompts/seed1/index5 3669 2676 72.9 27.1 71.2
+16shots/3run/8prompts/seed1/index6 3669 2725 74.3 25.7 73.6
+16shots/3run/8prompts/seed1/index7 3669 3027 82.5 17.5 81.6
+16shots/3run/8prompts/seed2/index0 3669 2733 74.5 25.5 73.2
+16shots/3run/8prompts/seed2/index1 3669 2714 74.0 26.0 73.8
+16shots/3run/8prompts/seed2/index2 3669 2785 75.9 24.1 75.3
+16shots/3run/8prompts/seed2/index3 3669 3085 84.1 15.9 83.1
+16shots/3run/8prompts/seed2/index4 3669 2941 80.2 19.8 78.4
+16shots/3run/8prompts/seed2/index5 3669 2909 79.3 20.7 77.0
+16shots/3run/8prompts/seed2/index6 3669 2417 65.9 34.1 64.6
+16shots/3run/8prompts/seed2/index7 3669 3111 84.8 15.2 84.5
+16shots/3run/8prompts/seed3/index0 3669 2783 75.9 24.1 74.4
+16shots/3run/8prompts/seed3/index1 3669 3081 84.0 16.0 83.3
+16shots/3run/8prompts/seed3/index2 3669 2786 75.9 24.1 73.7
+16shots/3run/8prompts/seed3/index3 3669 2537 69.1 30.9 67.5
+16shots/3run/8prompts/seed3/index4 3669 2898 79.0 21.0 78.2
+16shots/3run/8prompts/seed3/index5 3669 3025 82.4 17.6 82.3
+16shots/3run/8prompts/seed3/index6 3669 3123 85.1 14.9 84.9
+16shots/3run/8prompts/seed3/index7 3669 3041 82.9 17.1 82.4
+16shots/3run/16prompts/seed1/index0 3669 2457 67.0 33.0 64.3
+16shots/3run/16prompts/seed1/index1 3669 3160 86.1 13.9 86.0
+16shots/3run/16prompts/seed1/index2 3669 2242 61.1 38.9 57.6
+16shots/3run/16prompts/seed1/index3 3669 2720 74.1 25.9 73.1
+16shots/3run/16prompts/seed1/index4 3669 3169 86.4 13.6 86.5
+16shots/3run/16prompts/seed1/index5 3669 2698 73.5 26.5 72.1
+16shots/3run/16prompts/seed1/index6 3669 3167 86.3 13.7 86.1
+16shots/3run/16prompts/seed1/index7 3669 3060 83.4 16.6 82.4
+16shots/3run/16prompts/seed1/index8 3669 3127 85.2 14.8 85.1
+16shots/3run/16prompts/seed1/index9 3669 3180 86.7 13.3 86.0
+16shots/3run/16prompts/seed1/index10 3669 3128 85.3 14.7 84.9
+16shots/3run/16prompts/seed1/index11 3669 2762 75.3 24.7 74.3
+16shots/3run/16prompts/seed1/index12 3669 2139 58.3 41.7 54.6
+16shots/3run/16prompts/seed1/index13 3669 3157 86.0 14.0 85.4
+16shots/3run/16prompts/seed1/index14 3669 2308 62.9 37.1 59.9
+16shots/3run/16prompts/seed1/index15 3669 3075 83.8 16.2 83.4
+16shots/3run/16prompts/seed2/index0 3669 2709 73.8 26.2 73.1
+16shots/3run/16prompts/seed2/index1 3669 2448 66.7 33.3 64.1
+16shots/3run/16prompts/seed2/index2 3669 3016 82.2 17.8 82.2
+16shots/3run/16prompts/seed2/index3 3669 3091 84.2 15.8 84.0
+16shots/3run/16prompts/seed2/index4 3669 3045 83.0 17.0 81.5
+16shots/3run/16prompts/seed2/index5 3669 2230 60.8 39.2 55.8
+16shots/3run/16prompts/seed2/index6 3669 2515 68.5 31.5 66.1
+16shots/3run/16prompts/seed2/index7 3669 3044 83.0 17.0 83.0
+16shots/3run/16prompts/seed2/index8 3669 3100 84.5 15.5 84.4
+16shots/3run/16prompts/seed2/index9 3669 2944 80.2 19.8 79.0
+16shots/3run/16prompts/seed2/index10 3669 2841 77.4 22.6 75.5
+16shots/3run/16prompts/seed2/index11 3669 2242 61.1 38.9 57.3
+16shots/3run/16prompts/seed2/index12 3669 3126 85.2 14.8 85.0
+16shots/3run/16prompts/seed2/index13 3669 2947 80.3 19.7 80.0
+16shots/3run/16prompts/seed2/index14 3669 2934 80.0 20.0 79.5
+16shots/3run/16prompts/seed2/index15 3669 2517 68.6 31.4 65.7
+16shots/3run/16prompts/seed3/index0 3669 3096 84.4 15.6 84.3
+16shots/3run/16prompts/seed3/index1 3669 3061 83.4 16.6 83.1
+16shots/3run/16prompts/seed3/index2 3669 2829 77.1 22.9 74.2
+16shots/3run/16prompts/seed3/index3 3669 2693 73.4 26.6 71.4
+16shots/3run/16prompts/seed3/index4 3669 2627 71.6 28.4 69.0
+16shots/3run/16prompts/seed3/index5 3669 2859 77.9 22.1 77.5
+16shots/3run/16prompts/seed3/index6 3669 2689 73.3 26.7 71.1
+16shots/3run/16prompts/seed3/index7 3669 3050 83.1 16.9 82.6
+16shots/3run/16prompts/seed3/index8 3669 2881 78.5 21.5 78.1
+16shots/3run/16prompts/seed3/index9 3669 2764 75.3 24.7 74.4
+16shots/3run/16prompts/seed3/index10 3669 2661 72.5 27.5 70.7
+16shots/3run/16prompts/seed3/index11 3669 3118 85.0 15.0 84.8
+16shots/3run/16prompts/seed3/index12 3669 3111 84.8 15.2 83.8
+16shots/3run/16prompts/seed3/index13 3669 3179 86.6 13.4 86.2
+16shots/3run/16prompts/seed3/index14 3669 2715 74.0 26.0 71.6
+16shots/3run/16prompts/seed3/index15 3669 3075 83.8 16.2 83.5
+16shots/3run/32prompts/seed1/index0     
+16shots/3run/32prompts/seed1/index1     
+16shots/3run/32prompts/seed1/index2     
+16shots/3run/32prompts/seed1/index3     
+16shots/3run/32prompts/seed1/index4     
+16shots/3run/32prompts/seed1/index5     
+16shots/3run/32prompts/seed1/index6     
+16shots/3run/32prompts/seed1/index7     
+16shots/3run/32prompts/seed1/index8     
+16shots/3run/32prompts/seed1/index9     
+16shots/3run/32prompts/seed1/index10     
+16shots/3run/32prompts/seed1/index11     
+16shots/3run/32prompts/seed1/index12     
+16shots/3run/32prompts/seed1/index13     
+16shots/3run/32prompts/seed1/index14     
+16shots/3run/32prompts/seed1/index15     
+16shots/3run/32prompts/seed1/index16     
+16shots/3run/32prompts/seed1/index17     
+16shots/3run/32prompts/seed1/index18     
+16shots/3run/32prompts/seed1/index19     
+16shots/3run/32prompts/seed1/index20     
+16shots/3run/32prompts/seed1/index21     
+16shots/3run/32prompts/seed1/index22     
+16shots/3run/32prompts/seed1/index23     
+16shots/3run/32prompts/seed1/index24     
+16shots/3run/32prompts/seed1/index25     
+16shots/3run/32prompts/seed1/index26     
+16shots/3run/32prompts/seed1/index27     
+16shots/3run/32prompts/seed1/index28     
+16shots/3run/32prompts/seed1/index29     
+16shots/3run/32prompts/seed1/index30     
+16shots/3run/32prompts/seed1/index31     
+16shots/3run/32prompts/seed2/index0     
+16shots/3run/32prompts/seed2/index1     
+16shots/3run/32prompts/seed2/index2     
+16shots/3run/32prompts/seed2/index3     
+16shots/3run/32prompts/seed2/index4     
+16shots/3run/32prompts/seed2/index5     
+16shots/3run/32prompts/seed2/index6     
+16shots/3run/32prompts/seed2/index7     
+16shots/3run/32prompts/seed2/index8     
+16shots/3run/32prompts/seed2/index9     
+16shots/3run/32prompts/seed2/index10     
+16shots/3run/32prompts/seed2/index11     
+16shots/3run/32prompts/seed2/index12     
+16shots/3run/32prompts/seed2/index13     
+16shots/3run/32prompts/seed2/index14     
+16shots/3run/32prompts/seed2/index15     
+16shots/3run/32prompts/seed2/index16     
+16shots/3run/32prompts/seed2/index17     
+16shots/3run/32prompts/seed2/index18     
+16shots/3run/32prompts/seed2/index19     
+16shots/3run/32prompts/seed2/index20     
+16shots/3run/32prompts/seed2/index21     
+16shots/3run/32prompts/seed2/index22     
+16shots/3run/32prompts/seed2/index23     
+16shots/3run/32prompts/seed2/index24     
+16shots/3run/32prompts/seed2/index25     
+16shots/3run/32prompts/seed2/index26     
+16shots/3run/32prompts/seed2/index27     
+16shots/3run/32prompts/seed2/index28     
+16shots/3run/32prompts/seed2/index29     
+16shots/3run/32prompts/seed2/index30     
+16shots/3run/32prompts/seed2/index31     
+16shots/3run/32prompts/seed3/index0     
+16shots/3run/32prompts/seed3/index1     
+16shots/3run/32prompts/seed3/index2     
+16shots/3run/32prompts/seed3/index3     
+16shots/3run/32prompts/seed3/index4     
+16shots/3run/32prompts/seed3/index5     
+16shots/3run/32prompts/seed3/index6     
+16shots/3run/32prompts/seed3/index7     
+16shots/3run/32prompts/seed3/index8     
+16shots/3run/32prompts/seed3/index9     
+16shots/3run/32prompts/seed3/index10     
+16shots/3run/32prompts/seed3/index11     
+16shots/3run/32prompts/seed3/index12     
+16shots/3run/32prompts/seed3/index13     
+16shots/3run/32prompts/seed3/index14     
+16shots/3run/32prompts/seed3/index15     
+16shots/3run/32prompts/seed3/index16     
+16shots/3run/32prompts/seed3/index17     
+16shots/3run/32prompts/seed3/index18     
+16shots/3run/32prompts/seed3/index19     
+16shots/3run/32prompts/seed3/index20     
+16shots/3run/32prompts/seed3/index21     
+16shots/3run/32prompts/seed3/index22     
+16shots/3run/32prompts/seed3/index23     
+16shots/3run/32prompts/seed3/index24     
+16shots/3run/32prompts/seed3/index25     
+16shots/3run/32prompts/seed3/index26     
+16shots/3run/32prompts/seed3/index27     
+16shots/3run/32prompts/seed3/index28     
+16shots/3run/32prompts/seed3/index29     
+16shots/3run/32prompts/seed3/index30     
+16shots/3run/32prompts/seed3/index31     
