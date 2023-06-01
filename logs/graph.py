@@ -18,7 +18,8 @@ for dataset in datasets:
     macro_f1 = [float(row[5]) if row[5] != '' else 0 for row in data]
 
 
-    fig, axs = plt.subplots(1, 3)
+    fig, axs = plt.subplots(1, 3, figsize=(15, 5))
+    fig.canvas.set_window_title(dataset)
 
     x1_data = []
     for i in range(6):
