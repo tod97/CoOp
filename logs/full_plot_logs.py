@@ -5,8 +5,8 @@ import numpy as np
 
 colors = ['green', 'blue', 'red', 'yellow', 'orange']
 legend = ['1-ctx 16-prompts', '2-ctx 8-prompts', '4-ctx 4-prompts', '8-ctx 2-prompts', '16-ctx 1-prompt']
-datasets = ['caltech101', 'dtd', 'eurosat', 'fgvc_aircraft', 'food101', 'oxford_flowers', 'oxford_pets', 'stanford_cars', 'sun397', 'ucf101']
-#datasets = ['caltech101']
+#datasets = ['caltech101', 'dtd', 'eurosat', 'fgvc_aircraft', 'food101', 'oxford_flowers', 'oxford_pets', 'stanford_cars', 'sun397', 'ucf101']
+datasets = ['caltech101']
 
 with open('full.csv', 'r') as file:
    reader = csv.reader(file, delimiter=' ')
@@ -24,14 +24,14 @@ for dataset in datasets:
    macro_f1 = [float(row[5]) if row[5] != '' else 0 for row in filtered_data]
 
    x_data = [1, 2, 4, 8, 16]
-   x_data = [x_data[i] for i in range(0, int(len(filtered_data)/15))]
 
-   for i in range(len(x_data)):
+   for i in range(0, int(len(filtered_data)/15)):
       y_data = []
       for shot in range(len(x_data)):
          index = shot*int(len(filtered_data)/5) + i*3
          avg_acc = (accuracy[index] + accuracy[index + 1] + accuracy[index + 2]) / 3
          y_data.append(avg_acc)
+      #print(y_data, colors[i])
       plt.plot(x_data, y_data, markersize=3, color=colors[i])
 
    plt.grid()
@@ -39,6 +39,6 @@ for dataset in datasets:
    plt.xlabel('Prompts')
    plt.ylabel('Accuracy')
    plt.xticks(x_data)
-   plt.legend([legend[i] for i in range(len(legend)-len(x_data), len(legend))])
+   plt.legend([legend[i] for i in range(len(legend)-int(len(filtered_data)/15), len(legend))])
    plt.get_current_fig_manager().set_window_title(dataset)
    plt.show()
