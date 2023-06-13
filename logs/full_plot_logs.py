@@ -36,7 +36,7 @@ for dataset in datasets:
 
    plt.grid()
    plt.title(dataset)
-   plt.xlabel('Prompts')
+   plt.xlabel('Shots')
    plt.ylabel('Accuracy')
    plt.xticks(x_data)
    plt.legend([legend[i] for i in range(len(legend)-int(len(filtered_data)/15), len(legend))])
