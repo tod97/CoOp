@@ -24,6 +24,7 @@ for dataset in datasets:
    macro_f1 = [float(row[5]) if row[5] != '' else 0 for row in filtered_data]
 
    x_data = [1, 2, 4, 8, 16]
+   y_n_conditions = int(len(filtered_data)/15)
 
    for i in range(0, int(len(filtered_data)/15)):
       y_data = []
@@ -32,13 +33,16 @@ for dataset in datasets:
          avg_acc = (accuracy[index] + accuracy[index + 1] + accuracy[index + 2]) / 3
          y_data.append(avg_acc)
       #print(y_data, colors[i])
-      plt.plot(x_data, y_data, markersize=3, color=colors[i])
+      if not all([acc == 0 for acc in y_data]):
+         plt.plot(x_data, y_data, markersize=3, color=colors[i])
+      else:
+         y_n_conditions -= 1
 
    plt.grid()
    plt.title(dataset)
    plt.xlabel('Shots')
    plt.ylabel('Accuracy')
    plt.xticks(x_data)
-   plt.legend([legend[i] for i in range(len(legend)-int(len(filtered_data)/15), len(legend))])
+   plt.legend([legend[i] for i in range(len(legend) - y_n_conditions, len(legend))])
    plt.get_current_fig_manager().set_window_title(dataset)
    plt.show()
