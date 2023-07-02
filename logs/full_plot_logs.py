@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter
 import numpy as np
 
-colors = [ 'yellow', 'orange', 'green', 'blue', 'red']
+colors = [ 'purple', 'orange', 'green', 'blue', 'red']
 legend = ['1-ctx 16-prompts', '2-ctx 8-prompts', '4-ctx 4-prompts', '8-ctx 2-prompts', '16-ctx 1-prompt']
 datasets = ['caltech101', 'dtd', 'eurosat', 'fgvc_aircraft', 'food101', 'imagenet', 'oxford_flowers', 'oxford_pets', 'stanford_cars', 'sun397', 'ucf101']
 
