@@ -29,7 +29,9 @@ for dataset in datasets:
       y_data = []
       for shot in range(len(x_data)):
          index = shot*int(len(filtered_data)/5) + i*3
-         avg_acc = (accuracy[index] + accuracy[index + 1] + accuracy[index + 2]) / 3
+         dividend = sum(1 for j in range(3) if accuracy[index + j] != 0)
+         dividend = max(dividend, 1)
+         avg_acc = (accuracy[index] + accuracy[index + 1] + accuracy[index + 2]) / dividend
          y_data.append(avg_acc)
       #print(y_data, colors[i])
       if not all([acc == 0 for acc in y_data]):
